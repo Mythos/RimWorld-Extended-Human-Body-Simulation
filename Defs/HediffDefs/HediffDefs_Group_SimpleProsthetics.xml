@@ -6,7 +6,7 @@
 		<isBad>false</isBad>
 		<defaultLabelColor>(102,178,255)</defaultLabelColor>
 		<addedPartProps>
-			<isSolid>true</isSolid>
+			<solid>true</solid>
 		</addedPartProps>
 	</HediffDef>
 

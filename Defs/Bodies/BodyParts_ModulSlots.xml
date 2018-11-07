@@ -3,10 +3,10 @@
 
 	<BodyPartDef Abstract="True" Name="ModulSlot">
 		<hitPoints>5</hitPoints>
-		<oldInjuryBaseChance>0</oldInjuryBaseChance>
+		<permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 		<skinCovered>false</skinCovered>
-		<isAlive>false</isAlive>
-		<dontSuggestAmputation>true</dontSuggestAmputation>
+		<alive>false</alive>
+		<canSuggestAmputation>false</canSuggestAmputation>
 	</BodyPartDef>
 
 	<BodyPartDef ParentName="ModulSlot">

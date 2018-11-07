@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Extended Human Body Simulation v1.1.1</name>
-	<author>PhileasFogg (Updated by Mythos)</author>
-	<url>https://ludeon.com/forums/index.php?topic=34214.0</url>
-	<targetVersion>0.18.0</targetVersion>
+	<name>Extended Human Body Simulation v1.2.0</name>
+	<author>Mythos</author>
+	<url>https://github.com/Mythos/RimWorld-Extended-Human-Body-Simulation</url>
+	<targetVersion>1.0.0</targetVersion>
 	<description>Integrates these features into RimWorld:
 - An extended simulation system for human bodies (fibulas, ulnas, etc.)
 - Buyable artificial bones to replace missing ones
@@ -13,6 +13,7 @@
 
 
 Credits and Thanks to...
+ - PhileasFogg for the original mod!
  - Ykara, for his/her both fantastic mods, which I used as a basis for this mod: "EPOE (Expanded Prosthetics and Organ Engineering)" and "Harvest Everything!"
  - Marnador, for the RimWor(l)d font, used in the picture above.
  - Tynan, for this great game!</description>

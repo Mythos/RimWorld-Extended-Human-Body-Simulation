@@ -83,8 +83,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightClavicle</li>
-			<li>LeftClavicle</li>
+			<li>Clavicle</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialClavicle</addsHediff>
 	</RecipeDef>
@@ -195,16 +194,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftHandPinky</li>
-			<li>LeftHandRingFinger</li>
-			<li>LeftHandMiddleFinger</li>
-			<li>LeftHandIndexFinger</li>
-			<li>LeftHandThumb</li>
-			<li>RightHandPinky</li>
-			<li>RightHandRingFinger</li>
-			<li>RightHandMiddleFinger</li>
-			<li>RightHandIndexFinger</li>
-			<li>RightHandThumb</li>
+			<li>Finger</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialFinger</addsHediff>
 	</RecipeDef>
@@ -241,16 +231,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftFootLittleToe</li>
-			<li>LeftFootFourthToe</li>
-			<li>LeftFootMiddleToe</li>
-			<li>LeftFootSecondToe</li>
-			<li>LeftFootBigToe</li>
-			<li>RightFootLittleToe</li>
-			<li>RightFootFourthToe</li>
-			<li>RightFootMiddleToe</li>
-			<li>RightFootSecondToe</li>
-			<li>RightFootBigToe</li>
+			<li>Toe</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialToe</addsHediff>
 	</RecipeDef>
@@ -287,8 +268,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightHumerus</li>
-			<li>LeftHumerus</li>
+			<li>Humerus</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialHumerus</addsHediff>
 	</RecipeDef>
@@ -325,8 +305,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightFemur</li>
-			<li>LeftFemur</li>
+			<li>Femur</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialFemur</addsHediff>
 	</RecipeDef>
@@ -363,8 +342,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightPatella</li>
-			<li>LeftPatella</li>
+			<li>Patella</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialPatella</addsHediff>
 	</RecipeDef>
@@ -401,8 +379,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightTibia</li>
-			<li>LeftTibia</li>
+			<li>Tibia</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialTibia</addsHediff>
 	</RecipeDef>
@@ -439,8 +416,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightFibula</li>
-			<li>LeftFibula</li>
+			<li>Fibula</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialFibula</addsHediff>
 	</RecipeDef>
@@ -477,8 +453,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightRadius</li>
-			<li>LeftRadius</li>
+			<li>Radius</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialRadius</addsHediff>
 	</RecipeDef>
@@ -515,8 +490,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightUlna</li>
-			<li>LeftUlna</li>
+			<li>Ulna</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialUlna</addsHediff>
 	</RecipeDef>

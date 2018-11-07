@@ -118,8 +118,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftLobeLiver</li>
-			<li>RightLobeLiver</li>
+			<li>LobeLiver</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -191,8 +190,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftKidney</li>
-			<li>RightKidney</li>
+			<li>Kidney</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -228,8 +226,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftLung</li>
-			<li>RightLung</li>
+			<li>Lung</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -265,8 +262,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>RightEye</li>
-			<li>LeftEye</li>
+			<li>Eye</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -338,8 +334,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftEar</li>
-			<li>RightEar</li>
+			<li>Ear</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -411,8 +406,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftShoulder</li>
-			<li>RightShoulder</li>
+			<li>Shoulder</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -448,8 +442,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftLeg</li>
-			<li>RightLeg</li>
+			<li>Leg</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -521,8 +514,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftHand</li>
-			<li>RightHand</li>
+			<li>Hand</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -558,8 +550,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftFoot</li>
-			<li>RightFoot</li>
+			<li>Foot</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -595,16 +586,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftHandPinky</li>
-			<li>LeftHandRingFinger</li>
-			<li>LeftHandMiddleFinger</li>
-			<li>LeftHandIndexFinger</li>
-			<li>LeftHandThumb</li>
-			<li>RightHandPinky</li>
-			<li>RightHandRingFinger</li>
-			<li>RightHandMiddleFinger</li>
-			<li>RightHandIndexFinger</li>
-			<li>RightHandThumb</li>
+			<li>Finger</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -640,16 +622,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftFootLittleToe</li>
-			<li>LeftFootFourthToe</li>
-			<li>LeftFootMiddleToe</li>
-			<li>LeftFootSecondToe</li>
-			<li>LeftFootBigToe</li>
-			<li>RightFootLittleToe</li>
-			<li>RightFootFourthToe</li>
-			<li>RightFootMiddleToe</li>
-			<li>RightFootSecondToe</li>
-			<li>RightFootBigToe</li>
+			<li>Toe</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -757,8 +730,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftClavicle</li>
-			<li>RightClavicle</li>
+			<li>Clavicle</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -830,8 +802,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftHumerus</li>
-			<li>RightHumerus</li>
+			<li>Humerus</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -867,8 +838,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftFemur</li>
-			<li>RightFemur</li>
+			<li>Femur</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -904,8 +874,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftRadius</li>
-			<li>RightRadius</li>
+			<li>Radius</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -941,8 +910,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftUlna</li>
-			<li>RightUlna</li>
+			<li>Ulna</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -978,8 +946,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftPatella</li>
-			<li>RightPatella</li>
+			<li>Patella</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -1015,8 +982,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftTibia</li>
-			<li>RightTibia</li>
+			<li>Tibia</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 
@@ -1052,8 +1018,7 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>LeftFibula</li>
-			<li>RightFibula</li>
+			<li>Fibula</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 

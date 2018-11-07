@@ -9,7 +9,7 @@
 			<li>SimpleProstheses</li>
 		</thingCategories>
 		<graphicData>
-			<texPath>Things/Item/BodyPart/SimplePart</texPath>
+			<texPath>Things/Item/Health/HealthItemProsthetic</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingDef>
