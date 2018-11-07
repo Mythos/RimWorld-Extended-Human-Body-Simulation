@@ -2,7 +2,7 @@
 
 This is an unofficial update of PhileasFogg's mod which can be found on the [Ludeon Forums](url=https://ludeon.com/forums/index.php?topic=34214.msg349406)
 
-#Feature overview
+# Feature overview
 
 ## Additional bodyparts
 The current human body simulation is rather limited. I expanded it with fibulas, patellas, ulnas, a spleed, two lobes for your pawns liver and a hidden intestine (which makes it possible to remove stomaches without killing the patient - because humans can live without a stomach; it's no fun but possible).
