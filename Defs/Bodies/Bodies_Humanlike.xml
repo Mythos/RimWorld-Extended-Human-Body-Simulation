@@ -21,7 +21,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotSternum</def>
+							<def>ModuleSlotSternum</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -38,7 +38,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib1</def>
+							<def>ModuleSlotRib1</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -55,7 +55,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib2</def>
+							<def>ModuleSlotRib2</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -72,7 +72,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib3</def>
+							<def>ModuleSlotRib3</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -89,7 +89,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib4</def>
+							<def>ModuleSlotRib4</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -106,7 +106,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib5</def>
+							<def>ModuleSlotRib5</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -123,7 +123,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib6</def>
+							<def>ModuleSlotRib6</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -140,7 +140,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib7</def>
+							<def>ModuleSlotRib7</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -157,7 +157,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib8</def>
+							<def>ModuleSlotRib8</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -174,7 +174,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib9</def>
+							<def>ModuleSlotRib9</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -191,7 +191,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib10</def>
+							<def>ModuleSlotRib10</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -208,7 +208,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib11</def>
+							<def>ModuleSlotRib11</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -225,7 +225,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRib12</def>
+							<def>ModuleSlotRib12</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -243,42 +243,42 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotPelvisFront</def>
+							<def>ModuleSlotPelvisFront</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotPelvisRear</def>
+							<def>ModuleSlotPelvisRear</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotPelvisCentre</def>
+							<def>ModuleSlotPelvisCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotPelvisDown</def>
+							<def>ModuleSlotPelvisDown</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotPelvisLeft</def>
+							<def>ModuleSlotPelvisLeft</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotPelvisRight</def>
+							<def>ModuleSlotPelvisRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -295,154 +295,154 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotSpineFrontUpLeft</def>
+							<def>ModuleSlotSpineFrontUpLeft</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontCentreLeft</def>
+							<def>ModuleSlotSpineFrontCentreLeft</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontDownLeft</def>
+							<def>ModuleSlotSpineFrontDownLeft</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontUpCentre</def>
+							<def>ModuleSlotSpineFrontUpCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontCentreCentre</def>
+							<def>ModuleSlotSpineFrontCentreCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontDownCentre</def>
+							<def>ModuleSlotSpineFrontDownCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontUpRight</def>
+							<def>ModuleSlotSpineFrontUpRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontCentreRight</def>
+							<def>ModuleSlotSpineFrontCentreRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineFrontDownRight</def>
+							<def>ModuleSlotSpineFrontDownRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineLeftUp</def>
+							<def>ModuleSlotSpineLeftUp</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineLeftDown</def>
+							<def>ModuleSlotSpineLeftDown</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRightUp</def>
+							<def>ModuleSlotSpineRightUp</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRightDown</def>
+							<def>ModuleSlotSpineRightDown</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearUpLeft</def>
+							<def>ModuleSlotSpineRearUpLeft</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearCentreLeft</def>
+							<def>ModuleSlotSpineRearCentreLeft</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearDownLeft</def>
+							<def>ModuleSlotSpineRearDownLeft</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearUpCentre</def>
+							<def>ModuleSlotSpineRearUpCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearCentreCentre</def>
+							<def>ModuleSlotSpineRearCentreCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearDownCentre</def>
+							<def>ModuleSlotSpineRearDownCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearUpRight</def>
+							<def>ModuleSlotSpineRearUpRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearCentreRight</def>
+							<def>ModuleSlotSpineRearCentreRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotSpineRearDownRight</def>
+							<def>ModuleSlotSpineRearDownRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -459,7 +459,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotStomach</def>
+							<def>ModuleSlotStomach</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -484,7 +484,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotHeart</def>
+							<def>ModuleSlotHeart</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -502,7 +502,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotLeftLung</def>
+							<def>ModuleSlotLeftLung</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -520,7 +520,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRightLung</def>
+							<def>ModuleSlotRightLung</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -530,7 +530,7 @@
 				</li>
 				<li>
 					<def>Kidney</def>
-					<customLabel>left kindey</customLabel>
+					<customLabel>left kidney</customLabel>
 					<coverage>0.017</coverage>
 					<depth>Inside</depth>
 					<groups>
@@ -538,7 +538,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotLeftKidney</def>
+							<def>ModuleSlotLeftKidney</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -556,7 +556,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRightKidney</def>
+							<def>ModuleSlotRightKidney</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -573,7 +573,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotSpleen</def>
+							<def>ModuleSlotSpleen</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -606,7 +606,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotLiver</def>
+							<def>ModuleSlotLiver</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -623,7 +623,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotNeckFront</def>
+							<def>ModuleSlotNeckFront</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -631,7 +631,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotNeckRearUp</def>
+							<def>ModuleSlotNeckRearUp</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -639,7 +639,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotNeckRearDown</def>
+							<def>ModuleSlotNeckRearDown</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -647,7 +647,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotNeckLeft</def>
+							<def>ModuleSlotNeckLeft</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -655,7 +655,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotNeckRight</def>
+							<def>ModuleSlotNeckRight</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -672,7 +672,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotHeadFront</def>
+									<def>ModuleSlotHeadFront</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -681,7 +681,7 @@
 									</groups>
 								</li>
 								<li>
-									<def>moduleslotHeadRear</def>
+									<def>ModuleSlotHeadRear</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -690,7 +690,7 @@
 									</groups>
 								</li>
 								<li>
-									<def>moduleslotHeadUp</def>
+									<def>ModuleSlotHeadUp</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -699,7 +699,7 @@
 									</groups>
 								</li>
 								<li>
-									<def>moduleslotHeadLeft</def>
+									<def>ModuleSlotHeadLeft</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -708,7 +708,7 @@
 									</groups>
 								</li>
 								<li>
-									<def>moduleslotHeadRight</def>
+									<def>ModuleSlotHeadRight</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -726,7 +726,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotSkull</def>
+											<def>ModuleSlotSkull</def>
 											<coverage>0</coverage>
 											<groups>
 												<li>UpperHead</li>
@@ -758,7 +758,7 @@
 													</groups>
 												</li>
 												<li>
-													<def>moduleslotBrainFront</def>
+													<def>ModuleSlotBrainFront</def>
 													<coverage>0</coverage>
 													<groups>
 														<li>UpperHead</li>
@@ -766,7 +766,7 @@
 													</groups>
 												</li>
 												<li>
-													<def>moduleslotBrainCentre</def>
+													<def>ModuleSlotBrainCentre</def>
 													<coverage>0</coverage>
 													<groups>
 														<li>UpperHead</li>
@@ -774,7 +774,7 @@
 													</groups>
 												</li>
 												<li>
-													<def>moduleslotBrainRear</def>
+													<def>ModuleSlotBrainRear</def>
 													<coverage>0</coverage>
 													<groups>
 														<li>UpperHead</li>
@@ -782,7 +782,7 @@
 													</groups>
 												</li>
 												<li>
-													<def>moduleslotBrainUp</def>
+													<def>ModuleSlotBrainUp</def>
 													<coverage>0</coverage>
 													<groups>
 														<li>UpperHead</li>
@@ -790,7 +790,7 @@
 													</groups>
 												</li>
 												<li>
-													<def>moduleslotBrainDown</def>
+													<def>ModuleSlotBrainDown</def>
 													<coverage>0</coverage>
 													<groups>
 														<li>UpperHead</li>
@@ -798,7 +798,7 @@
 													</groups>
 												</li>
 												<li>
-													<def>moduleslotBrainLeft</def>
+													<def>ModuleSlotBrainLeft</def>
 													<coverage>0</coverage>
 													<groups>
 														<li>UpperHead</li>
@@ -806,7 +806,7 @@
 													</groups>
 												</li>
 												<li>
-													<def>moduleslotBrainRight</def>
+													<def>ModuleSlotBrainRight</def>
 													<coverage>0</coverage>
 													<groups>
 														<li>UpperHead</li>
@@ -827,7 +827,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftEye</def>
+											<def>ModuleSlotLeftEye</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -847,7 +847,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightEye</def>
+											<def>ModuleSlotRightEye</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -867,7 +867,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftEar</def>
+											<def>ModuleSlotLeftEar</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -887,7 +887,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightEar</def>
+											<def>ModuleSlotRightEar</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -905,7 +905,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotNose</def>
+											<def>ModuleSlotNose</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -923,7 +923,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotJawUp</def>
+											<def>ModuleSlotJawUp</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -932,7 +932,7 @@
 											</groups>
 										</li>
 										<li>
-											<def>moduleslotJawDown</def>
+											<def>ModuleSlotJawDown</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -955,7 +955,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotLeftShoulder</def>
+							<def>ModuleSlotLeftShoulder</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -973,7 +973,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotLeftClavicle</def>
+									<def>ModuleSlotLeftClavicle</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Torso</li>
@@ -990,7 +990,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotLeftArmUp</def>
+									<def>ModuleSlotLeftArmUp</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -998,7 +998,7 @@
 									</groups>
 								</li>
 								<li>
-									<def>moduleslotLeftArmDown</def>
+									<def>ModuleSlotLeftArmDown</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -1015,7 +1015,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftHumerus</def>
+											<def>ModuleSlotLeftHumerus</def>
 											<coverage>0</coverage>
 											<groups>
 												<li>Arms</li>
@@ -1033,7 +1033,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftRadius</def>
+											<def>ModuleSlotLeftRadius</def>
 											<coverage>0</coverage>
 											<groups>
 												<li>Arms</li>
@@ -1051,7 +1051,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftUlna</def>
+											<def>ModuleSlotLeftUlna</def>
 											<coverage>0</coverage>
 											<groups>
 												<li>Arms</li>
@@ -1069,7 +1069,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftHand</def>
+											<def>ModuleSlotLeftHand</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1087,7 +1087,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotLeftHandPinky</def>
+													<def>ModuleSlotLeftHandPinky</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1107,7 +1107,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotLeftHandRingFinger</def>
+													<def>ModuleSlotLeftHandRingFinger</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1127,7 +1127,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotLeftHandMiddleFinger</def>
+													<def>ModuleSlotLeftHandMiddleFinger</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1147,7 +1147,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotLeftHandIndexFinger</def>
+													<def>ModuleSlotLeftHandIndexFinger</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1167,7 +1167,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotLeftHandThumb</def>
+													<def>ModuleSlotLeftHandThumb</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1192,7 +1192,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRightShoulder</def>
+							<def>ModuleSlotRightShoulder</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -1210,7 +1210,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotRightClavicle</def>
+									<def>ModuleSlotRightClavicle</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Torso</li>
@@ -1227,7 +1227,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotRightArmUp</def>
+									<def>ModuleSlotRightArmUp</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -1235,7 +1235,7 @@
 									</groups>
 								</li>
 								<li>
-									<def>moduleslotRightArmDown</def>
+									<def>ModuleSlotRightArmDown</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -1252,7 +1252,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightHumerus</def>
+											<def>ModuleSlotRightHumerus</def>
 											<coverage>0</coverage>
 											<groups>
 												<li>Arms</li>
@@ -1270,7 +1270,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightRadius</def>
+											<def>ModuleSlotRightRadius</def>
 											<coverage>0</coverage>
 											<groups>
 												<li>Arms</li>
@@ -1288,7 +1288,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightUlna</def>
+											<def>ModuleSlotRightUlna</def>
 											<coverage>0</coverage>
 											<groups>
 												<li>Arms</li>
@@ -1306,7 +1306,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightHand</def>
+											<def>ModuleSlotRightHand</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1324,7 +1324,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotRightHandPinky</def>
+													<def>ModuleSlotRightHandPinky</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1344,7 +1344,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotRightHandRingFinger</def>
+													<def>ModuleSlotRightHandRingFinger</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1364,7 +1364,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotRightHandMiddleFinger</def>
+													<def>ModuleSlotRightHandMiddleFinger</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1384,7 +1384,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotRightHandIndexFinger</def>
+													<def>ModuleSlotRightHandIndexFinger</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1404,7 +1404,7 @@
 											</groups>
 											<parts>
 												<li>
-													<def>moduleslotRightHandThumb</def>
+													<def>ModuleSlotRightHandThumb</def>
 													<coverage>0</coverage>
 													<depth>Inside</depth>
 													<groups>
@@ -1438,7 +1438,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotLeftLegUp</def>
+							<def>ModuleSlotLeftLegUp</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -1446,7 +1446,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotLeftLegDown</def>
+							<def>ModuleSlotLeftLegDown</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -1463,7 +1463,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotLeftFemur</def>
+									<def>ModuleSlotLeftFemur</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1481,7 +1481,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotLeftPatella</def>
+									<def>ModuleSlotLeftPatella</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1499,7 +1499,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotLeftTibia</def>
+									<def>ModuleSlotLeftTibia</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1517,7 +1517,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotLeftFibula</def>
+									<def>ModuleSlotLeftFibula</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1534,7 +1534,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotLeftFoot</def>
+									<def>ModuleSlotLeftFoot</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -1550,7 +1550,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftFootLittleToe</def>
+											<def>ModuleSlotLeftFootLittleToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1568,7 +1568,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftFootFourthToe</def>
+											<def>ModuleSlotLeftFootFourthToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1586,7 +1586,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftFootMiddleToe</def>
+											<def>ModuleSlotLeftFootMiddleToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1604,7 +1604,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftFootSecondToe</def>
+											<def>ModuleSlotLeftFootSecondToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1622,7 +1622,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotLeftFootBigToe</def>
+											<def>ModuleSlotLeftFootBigToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1645,7 +1645,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>moduleslotRightLegUp</def>
+							<def>ModuleSlotRightLegUp</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -1653,7 +1653,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>moduleslotRightLegDown</def>
+							<def>ModuleSlotRightLegDown</def>
 							<coverage>0</coverage>
 							<depth>Inside</depth>
 							<groups>
@@ -1670,7 +1670,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotRightFemur</def>
+									<def>ModuleSlotRightFemur</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1688,7 +1688,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotRightPatella</def>
+									<def>ModuleSlotRightPatella</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1706,7 +1706,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotRightTibia</def>
+									<def>ModuleSlotRightTibia</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1724,7 +1724,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotRightFibula</def>
+									<def>ModuleSlotRightFibula</def>
 									<coverage>0</coverage>
 									<groups>
 										<li>Legs</li>
@@ -1741,7 +1741,7 @@
 							</groups>
 							<parts>
 								<li>
-									<def>moduleslotRightFoot</def>
+									<def>ModuleSlotRightFoot</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -1757,7 +1757,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightFootLittleToe</def>
+											<def>ModuleSlotRightFootLittleToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1775,7 +1775,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightFootFourthToe</def>
+											<def>ModuleSlotRightFootFourthToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1793,7 +1793,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightFootMiddleToe</def>
+											<def>ModuleSlotRightFootMiddleToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1811,7 +1811,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightFootSecondToe</def>
+											<def>ModuleSlotRightFootSecondToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>
@@ -1829,7 +1829,7 @@
 									</groups>
 									<parts>
 										<li>
-											<def>moduleslotRightFootBigToe</def>
+											<def>ModuleSlotRightFootBigToe</def>
 											<coverage>0</coverage>
 											<depth>Inside</depth>
 											<groups>

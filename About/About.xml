@@ -7,7 +7,7 @@
 	<description>Integrates these features into RimWorld:
 - An extended simulation system for human bodies (fibulas, ulnas, etc.)
 - Buyable artificial bones to replace missing ones
-- Harvestable bodyparts and reingration of those
+- Harvestable body parts and reintegration of those
 
 "Extended Human Body Simulation" is needed for "Disease overhauled" and "Crafted Mutants". Must be loaded before these two mods (above them in your mod list).
 

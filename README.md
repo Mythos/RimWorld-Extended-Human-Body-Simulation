@@ -4,11 +4,11 @@ This is an unofficial update of PhileasFogg's mod which can be found on the [Lud
 
 # Feature overview
 
-## Additional bodyparts
-The current human body simulation is rather limited. I expanded it with fibulas, patellas, ulnas, a spleed, two lobes for your pawns liver and a hidden intestine (which makes it possible to remove stomaches without killing the patient - because humans can live without a stomach; it's no fun but possible).
+## Additional body parts
+The current human body simulation is rather limited. I expanded it with fibulas, patellas, ulnas, a spleen, two lobes for your pawns liver and a hidden intestine (which makes it possible to remove the stomach without killing the patient - because humans can live without a stomach; it's no fun but possible).
 
-## Harvest and reintegrate all available bodyparts
-Nearly every single bodypart is now harvestable (exceptions: torso, shoulders, head, neck, skull, intestine). So you can replace every part your pawns might miss with freshly harvested natural equivalent (which needs to be stored in a cold enviroment as natural bodyparts start to rot after one day). This also applies to all parts of the now expanded human body structure, which includes: fibulas, patellas, ulnas, a spleed and two lobes for your pawns liver.
+## Harvest and reintegrate all available body parts
+Nearly every single body part is now harvestable (exceptions: torso, shoulders, head, neck, skull, intestine). So you can replace every part your pawns might miss with freshly harvested natural equivalent (which needs to be stored in a cold environment as natural body parts start to rot after one day). This also applies to all parts of the now expanded human body structure, which includes: fibulas, patellas, ulnas, a spleen and two lobes for your pawns liver.
 
 ## Replace missing bones with surrogates
 Buy a surrogate to replace the missing bones. Your trusted exotic, pirate or combat merchant may have to offer some.
