@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
 	<BodyDef>
@@ -565,7 +565,7 @@
 					</parts>
 				</li>
 				<li>
-					<def>Spleed</def>
+					<def>Spleen</def>
 					<coverage>0.015</coverage>
 					<depth>Inside</depth>
 					<groups>
@@ -573,7 +573,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>ModulSlotSpleed</def>
+							<def>ModulSlotSpleen</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>

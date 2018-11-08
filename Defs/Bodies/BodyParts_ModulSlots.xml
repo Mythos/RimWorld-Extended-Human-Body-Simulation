@@ -277,8 +277,8 @@
 	</BodyPartDef>
 
 	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpleed</defName>
-		<label>spleed modul slot</label>
+		<defName>ModulSlotSpleen</defName>
+		<label>spleen modul slot</label>
 	</BodyPartDef>
 
 	<BodyPartDef ParentName="ModulSlot">

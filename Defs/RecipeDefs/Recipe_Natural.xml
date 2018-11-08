@@ -51,10 +51,10 @@
 	</RecipeDef>
 
 	<RecipeDef ParentName="SurgeryNatural">
-		<defName>InstallNaturalSpleed</defName>
-		<label>install spleed</label>
-		<description>Installs spleed.</description>
-		<jobString>Installing spleed.</jobString>
+		<defName>InstallNaturalSpleen</defName>
+		<label>install spleen</label>
+		<description>Installs spleen.</description>
+		<jobString>Installing spleen.</jobString>
 		<ingredients>
 			<li>
 				<filter>
@@ -67,7 +67,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>Spleed</li>
+						<li>Spleen</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -78,11 +78,11 @@
 				<li>Medicine</li>
 			</categories>
 			<thingDefs>
-				<li>Spleed</li>
+				<li>Spleen</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>Spleed</li>
+			<li>Spleen</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
 

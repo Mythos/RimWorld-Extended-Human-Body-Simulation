@@ -212,9 +212,9 @@
 	</ThingDef-->
 
 	<ThingDef ParentName="BodyPartNaturalBase">
-		<defName>Spleed</defName>
-		<label>spleed</label>
-		<description>A spleed.</description>
+		<defName>Spleen</defName>
+		<label>spleen</label>
+		<description>A spleen.</description>
 		<graphicData>
 			<texPath>Things/Item/Health/HealthItemNatural</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
