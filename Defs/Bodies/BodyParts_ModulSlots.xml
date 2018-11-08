@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<BodyPartDef Abstract="True" Name="ModulSlot">
+	<BodyPartDef Abstract="True" Name="moduleslot">
 		<hitPoints>5</hitPoints>
 		<permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 		<skinCovered>false</skinCovered>
@@ -9,680 +9,680 @@
 		<canSuggestAmputation>false</canSuggestAmputation>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSternum</defName>
-		<label>sternum modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSternum</defName>
+		<label>sternum module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib1</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib1</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib2</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib2</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib3</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib3</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib4</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib4</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib5</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib5</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib6</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib6</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib7</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib7</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib8</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib8</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib9</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib9</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib10</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib10</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib11</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib11</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRib12</defName>
-		<label>rib modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRib12</defName>
+		<label>rib module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotPelvisFront</defName>
-<!--		<label>pelvis modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotPelvisFront</defName>
+<!--		<label>pelvis module slot</label>	-->
 		<label>pubic region</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotPelvisRear</defName>
-<!--		<label>pelvis modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotPelvisRear</defName>
+<!--		<label>pelvis module slot</label>	-->
 		<label>rump</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotPelvisCentre</defName>
-		<label>pelvis modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotPelvisCentre</defName>
+		<label>pelvis module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotPelvisDown</defName>
-<!--		<label>pelvis modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotPelvisDown</defName>
+<!--		<label>pelvis module slot</label>	-->
 		<label>crotch</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotPelvisLeft</defName>
-<!--		<label>pelvis modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotPelvisLeft</defName>
+<!--		<label>pelvis module slot</label>	-->
 		<label>pelvis, left side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotPelvisRight</defName>
-<!--		<label>pelvis modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotPelvisRight</defName>
+<!--		<label>pelvis module slot</label>	-->
 		<label>pelvis, right side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontUpLeft</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontUpLeft</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>chest, left side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontCentreLeft</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontCentreLeft</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>belly, left upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontDownLeft</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontDownLeft</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>belly, left lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontUpCentre</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontUpCentre</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>chest, centre</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontCentreCentre</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontCentreCentre</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>belly, centre upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontDownCentre</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontDownCentre</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>belly, centre lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontUpRight</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontUpRight</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>chest, right side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontCentreRight</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontCentreRight</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>belly, right upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineFrontDownRight</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineFrontDownRight</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>belly, right lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineLeftUp</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineLeftUp</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>flank, left upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineLeftDown</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineLeftDown</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>flank, left lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRightUp</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRightUp</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>flank, right upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRightDown</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRightDown</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>flank, right lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearUpLeft</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearUpLeft</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, left upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearCentreLeft</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearCentreLeft</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, left centre part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearDownLeft</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearDownLeft</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, left lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearUpCentre</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearUpCentre</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, centre upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearCentreCentre</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearCentreCentre</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearDownCentre</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearDownCentre</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, centre lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearUpRight</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearUpRight</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, right upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearCentreRight</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearCentreRight</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, right centre part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpineRearDownRight</defName>
-<!--		<label>spine modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpineRearDownRight</defName>
+<!--		<label>spine module slot</label>	-->
 		<label>rear, right lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotStomach</defName>
-		<label>stomach modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotStomach</defName>
+		<label>stomach module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotHeart</defName>
-		<label>heart modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotHeart</defName>
+		<label>heart module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftLung</defName>
-		<label>left lung modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftLung</defName>
+		<label>left lung module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightLung</defName>
-		<label>right lung modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightLung</defName>
+		<label>right lung module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftKidney</defName>
-		<label>left kidney modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftKidney</defName>
+		<label>left kidney module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightKidney</defName>
-		<label>right kidney modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightKidney</defName>
+		<label>right kidney module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLiver</defName>
-		<label>liver modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLiver</defName>
+		<label>liver module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSpleed</defName>
-		<label>spleed modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSpleen</defName>
+		<label>spleen module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotNeckFront</defName>
-<!--		<label>neck modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotNeckFront</defName>
+<!--		<label>neck module slot</label>	-->
 		<label>throat</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotNeckRearUp</defName>
-<!--		<label>neck modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotNeckRearUp</defName>
+<!--		<label>neck module slot</label>	-->
 		<label>nape, upper part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotNeckRearDown</defName>
-<!--		<label>neck modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotNeckRearDown</defName>
+<!--		<label>neck module slot</label>	-->
 		<label>nape, lower part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotNeckLeft</defName>
-<!--		<label>neck modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotNeckLeft</defName>
+<!--		<label>neck module slot</label>	-->
 		<label>neck, left side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotNeckRight</defName>
-<!--		<label>neck modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotNeckRight</defName>
+<!--		<label>neck module slot</label>	-->
 		<label>neck, right side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotHeadFront</defName>
-<!--		<label>head modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotHeadFront</defName>
+<!--		<label>head module slot</label>	-->
 		<label>forehead</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotHeadRear</defName>
-<!--		<label>head modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotHeadRear</defName>
+<!--		<label>head module slot</label>	-->
 		<label>occiput</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotHeadUp</defName>
-<!--		<label>head modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotHeadUp</defName>
+<!--		<label>head module slot</label>	-->
 		<label>skullcap</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotHeadLeft</defName>
-<!--		<label>head modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotHeadLeft</defName>
+<!--		<label>head module slot</label>	-->
 		<label>head, left side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotHeadRight</defName>
-<!--		<label>head modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotHeadRight</defName>
+<!--		<label>head module slot</label>	-->
 		<label>head, right side</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotSkull</defName>
-		<label>skull modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotSkull</defName>
+		<label>skull module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotBrainFront</defName>
-<!--		<label>brain modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotBrainFront</defName>
+<!--		<label>brain module slot</label>	-->
 		<label>prosencephalon</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotBrainCentre</defName>
-<!--		<label>brain modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotBrainCentre</defName>
+<!--		<label>brain module slot</label>	-->
 		<label>mesencephalon</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotBrainRear</defName>
-<!--		<label>brain modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotBrainRear</defName>
+<!--		<label>brain module slot</label>	-->
 		<label>metencephalon</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotBrainUp</defName>
-<!--		<label>brain modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotBrainUp</defName>
+<!--		<label>brain module slot</label>	-->
 		<label>telencephalon</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotBrainDown</defName>
-<!--		<label>brain modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotBrainDown</defName>
+<!--		<label>brain module slot</label>	-->
 		<label>brainstem</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotBrainLeft</defName>
-<!--		<label>brain modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotBrainLeft</defName>
+<!--		<label>brain module slot</label>	-->
 		<label>left hemisphere</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotBrainRight</defName>
-<!--		<label>brain modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotBrainRight</defName>
+<!--		<label>brain module slot</label>	-->
 		<label>right hemisphere</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftEye</defName>
-		<label>left eye modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftEye</defName>
+		<label>left eye module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightEye</defName>
-		<label>right eye modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightEye</defName>
+		<label>right eye module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftEar</defName>
-		<label>left ear modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftEar</defName>
+		<label>left ear module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightEar</defName>
-		<label>right ear modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightEar</defName>
+		<label>right ear module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotNose</defName>
-		<label>nose modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotNose</defName>
+		<label>nose module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotJawUp</defName>
-<!--		<label>jaw modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotJawUp</defName>
+<!--		<label>jaw module slot</label>	-->
 		<label>maxilla</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotJawDown</defName>
-<!--		<label>jaw modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotJawDown</defName>
+<!--		<label>jaw module slot</label>	-->
 		<label>mandible</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftShoulder</defName>
-<!--		<label>left shoulder modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftShoulder</defName>
+<!--		<label>left shoulder module slot</label>	-->
 		<label>shoulder girdle, upper left part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftClavicle</defName>
-		<label>left clavicle modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftClavicle</defName>
+		<label>left clavicle module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftArmUp</defName>
-<!--		<label>left arm modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftArmUp</defName>
+<!--		<label>left arm module slot</label>	-->
 		<label>left upper arm</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftArmDown</defName>
-<!--		<label>left arm modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftArmDown</defName>
+<!--		<label>left arm module slot</label>	-->
 		<label>left forearm</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftHumerus</defName>
-		<label>left humerus modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftHumerus</defName>
+		<label>left humerus module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftRadius</defName>
-		<label>left radius modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftRadius</defName>
+		<label>left radius module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftUlna</defName>
-		<label>left ulna modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftUlna</defName>
+		<label>left ulna module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftHand</defName>
-		<label>left hand modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftHand</defName>
+		<label>left hand module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftHandPinky</defName>
-		<label>left pinky modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftHandPinky</defName>
+		<label>left pinky module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftHandRingFinger</defName>
-		<label>left ring finger modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftHandRingFinger</defName>
+		<label>left ring finger module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftHandMiddleFinger</defName>
-		<label>left middle finger modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftHandMiddleFinger</defName>
+		<label>left middle finger module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftHandIndexFinger</defName>
-		<label>left index finger modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftHandIndexFinger</defName>
+		<label>left index finger module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftHandThumb</defName>
-		<label>left thumb modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftHandThumb</defName>
+		<label>left thumb module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightShoulder</defName>
-<!--		<label>right shoulder modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightShoulder</defName>
+<!--		<label>right shoulder module slot</label>	-->
 		<label>shoulder girdle, upper right part</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightClavicle</defName>
-		<label>right clavicle modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightClavicle</defName>
+		<label>right clavicle module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightArmUp</defName>
-<!--		<label>right arm modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightArmUp</defName>
+<!--		<label>right arm module slot</label>	-->
 		<label>right upper arm</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightArmDown</defName>
-<!--		<label>right arm modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightArmDown</defName>
+<!--		<label>right arm module slot</label>	-->
 		<label>right forearm</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightHumerus</defName>
-		<label>right humerus modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightHumerus</defName>
+		<label>right humerus module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightRadius</defName>
-		<label>right radius modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightRadius</defName>
+		<label>right radius module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightUlna</defName>
-		<label>right Ulna modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightUlna</defName>
+		<label>right Ulna module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightHand</defName>
-		<label>right hand modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightHand</defName>
+		<label>right hand module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightHandPinky</defName>
-		<label>right pinky modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightHandPinky</defName>
+		<label>right pinky module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightHandRingFinger</defName>
-		<label>right ring finger modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightHandRingFinger</defName>
+		<label>right ring finger module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightHandMiddleFinger</defName>
-		<label>right middle finger modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightHandMiddleFinger</defName>
+		<label>right middle finger module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightHandIndexFinger</defName>
-		<label>right index finger modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightHandIndexFinger</defName>
+		<label>right index finger module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightHandThumb</defName>
-		<label>right thumb modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightHandThumb</defName>
+		<label>right thumb module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftLegUp</defName>
-<!--		<label>left leg modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftLegUp</defName>
+<!--		<label>left leg module slot</label>	-->
 		<label>left upper leg</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftLegDown</defName>
-<!--		<label>left leg modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftLegDown</defName>
+<!--		<label>left leg module slot</label>	-->
 		<label>left shank</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFemur</defName>
-		<label>left femur modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFemur</defName>
+		<label>left femur module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftPatella</defName>
-		<label>left patella modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftPatella</defName>
+		<label>left patella module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftTibia</defName>
-		<label>left tibia modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftTibia</defName>
+		<label>left tibia module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFibula</defName>
-		<label>left fibula modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFibula</defName>
+		<label>left fibula module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFoot</defName>
-		<label>left foot modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFoot</defName>
+		<label>left foot module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFootLittleToe</defName>
-		<label>left little toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFootLittleToe</defName>
+		<label>left little toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFootFourthToe</defName>
-		<label>left fourth toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFootFourthToe</defName>
+		<label>left fourth toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFootMiddleToe</defName>
-		<label>left middle toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFootMiddleToe</defName>
+		<label>left middle toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFootSecondToe</defName>
-		<label>left second toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFootSecondToe</defName>
+		<label>left second toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotLeftFootBigToe</defName>
-		<label>left big toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotLeftFootBigToe</defName>
+		<label>left big toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightLegUp</defName>
-<!--		<label>right leg modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightLegUp</defName>
+<!--		<label>right leg module slot</label>	-->
 		<label>right upper leg</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightLegDown</defName>
-<!--		<label>right leg modul slot</label>	-->
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightLegDown</defName>
+<!--		<label>right leg module slot</label>	-->
 		<label>right shank</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFemur</defName>
-		<label>right femur modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFemur</defName>
+		<label>right femur module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightPatella</defName>
-		<label>right patella modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightPatella</defName>
+		<label>right patella module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightTibia</defName>
-		<label>right tibia modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightTibia</defName>
+		<label>right tibia module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFibula</defName>
-		<label>right fibula modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFibula</defName>
+		<label>right fibula module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFoot</defName>
-		<label>right foot modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFoot</defName>
+		<label>right foot module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFootLittleToe</defName>
-		<label>right little toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFootLittleToe</defName>
+		<label>right little toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFootFourthToe</defName>
-		<label>right fourth toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFootFourthToe</defName>
+		<label>right fourth toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFootMiddleToe</defName>
-		<label>right middle toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFootMiddleToe</defName>
+		<label>right middle toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFootSecondToe</defName>
-		<label>right second toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFootSecondToe</defName>
+		<label>right second toe module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModulSlot">
-		<defName>ModulSlotRightFootBigToe</defName>
-		<label>right big toe modul slot</label>
+	<BodyPartDef ParentName="moduleslot">
+		<defName>moduleslotRightFootBigToe</defName>
+		<label>right big toe module slot</label>
 	</BodyPartDef>
 
 </Defs>

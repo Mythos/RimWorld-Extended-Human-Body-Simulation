@@ -24,15 +24,15 @@
 	</BodyPartDef>
 
 	<BodyPartDef>
-		<defName>Spleed</defName>
-		<label>spleed</label>
+		<defName>Spleen</defName>
+		<label>spleen</label>
 		<hitPoints>15</hitPoints>
 		<permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
 		<skinCovered>false</skinCovered>
 		<!--tags>
 			<li>BloodPumpingSource</li>
 		</tags-->
-		<spawnThingOnRemoved>Spleed</spawnThingOnRemoved>
+		<spawnThingOnRemoved>Spleen</spawnThingOnRemoved>
 	</BodyPartDef>
 
 	<BodyPartDef>
