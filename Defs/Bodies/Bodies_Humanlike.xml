@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
 	<BodyDef>
@@ -530,7 +530,7 @@
 				</li>
 				<li>
 					<def>Kidney</def>
-					<customLabel>left kindey</customLabel>
+					<customLabel>left kidney</customLabel>
 					<coverage>0.017</coverage>
 					<depth>Inside</depth>
 					<groups>
