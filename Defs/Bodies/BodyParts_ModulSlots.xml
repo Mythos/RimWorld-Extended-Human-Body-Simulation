@@ -15,63 +15,8 @@
 	</BodyPartDef>
 
 	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib1</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib2</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib3</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib4</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib5</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib6</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib7</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib8</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib9</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib10</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib11</defName>
-		<label>rib module slot</label>
-	</BodyPartDef>
-
-	<BodyPartDef ParentName="ModuleSlot">
-		<defName>ModuleSlotRib12</defName>
-		<label>rib module slot</label>
+		<defName>ModuleSlotRibcage</defName>
+		<label>ribcage module slot</label>
 	</BodyPartDef>
 
 	<BodyPartDef ParentName="ModuleSlot">

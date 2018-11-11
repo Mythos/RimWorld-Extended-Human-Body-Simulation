@@ -424,9 +424,9 @@
 -->
 
 	<ThingDef ParentName="BodyPartNaturalBase">
-		<defName>Rib</defName>
-		<label>rib</label>
-		<description>A rib.</description>
+		<defName>Ribcage</defName>
+		<label>ribcage</label>
+		<description>A ribcage.</description>
 		<graphicData>
 			<texPath>Things/Item/Health/HealthItemNatural</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
