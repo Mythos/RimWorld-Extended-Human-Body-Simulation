@@ -527,7 +527,8 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
-			<li>Rib1</li>
+			<li>Ribcage</li>
+			<!--<li>Rib1</li>
 			<li>Rib2</li>
 			<li>Rib3</li>
 			<li>Rib4</li>
@@ -538,7 +539,7 @@
 			<li>Rib9</li>
 			<li>Rib10</li>
 			<li>Rib11</li>
-			<li>Rib12</li>
+			<li>Rib12</li>-->
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialRib</addsHediff>
 	</RecipeDef>

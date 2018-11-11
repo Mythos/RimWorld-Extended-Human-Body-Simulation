@@ -14,7 +14,7 @@
 		<label>sternum module slot</label>
 	</BodyPartDef>
 
-	<BodyPartDef ParentName="ModuleSlot">
+	<!-- <BodyPartDef ParentName="ModuleSlot">
 		<defName>ModuleSlotRib1</defName>
 		<label>rib module slot</label>
 	</BodyPartDef>
@@ -72,7 +72,7 @@
 	<BodyPartDef ParentName="ModuleSlot">
 		<defName>ModuleSlotRib12</defName>
 		<label>rib module slot</label>
-	</BodyPartDef>
+	</BodyPartDef> -->
 
 	<BodyPartDef ParentName="ModuleSlot">
 		<defName>ModuleSlotPelvisFront</defName>

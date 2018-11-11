@@ -30,6 +30,14 @@
 					</parts>
 				</li>
 				<li>
+				  <def>Ribcage</def>
+				  <coverage>0.036</coverage>
+				  <depth>Inside</depth>
+				  <groups>
+					<li>Torso</li>
+				  </groups>
+				</li>
+				<!--<li>
 					<def>Rib1</def>
 					<coverage>0.003</coverage>
 					<depth>Inside</depth>
@@ -232,7 +240,7 @@
 							</groups>
 						</li>
 					</parts>
-				</li>
+				</li> -->
 				<li>
 					<def>Pelvis</def>
 					<coverage>0.025</coverage>
