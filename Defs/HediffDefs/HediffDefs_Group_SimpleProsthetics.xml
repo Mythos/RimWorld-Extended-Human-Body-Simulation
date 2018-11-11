@@ -108,9 +108,9 @@
 	</HediffDef>
 
 	<HediffDef ParentName="addedPartSimpleWorse">
-		<defName>ArtificialRib</defName>
-		<label>artificial rib</label>
-		<spawnThingOnRemoved>ArtificialRib</spawnThingOnRemoved>
+		<defName>ArtificialRibcage</defName>
+		<label>artificial ribcage</label>
+		<spawnThingOnRemoved>ArtificialRibcage</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
 

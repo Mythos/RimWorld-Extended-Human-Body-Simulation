@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Extended Human Body Simulation v1.2.0</name>
+	<name>Extended Human Body Simulation v1.3.0</name>
 	<author>Mythos</author>
 	<url>https://github.com/Mythos/RimWorld-Extended-Human-Body-Simulation</url>
 	<targetVersion>1.0.0</targetVersion>
 	<description>Integrates these features into RimWorld:
 - An extended simulation system for human bodies (fibulas, ulnas, etc.)
 - Buyable artificial bones to replace missing ones
-- Harvestable bodyparts and reingration of those
+- Harvestable body parts and reintegration of those
 
 "Extended Human Body Simulation" is needed for "Disease overhauled" and "Crafted Mutants". Must be loaded before these two mods (above them in your mod list).
 

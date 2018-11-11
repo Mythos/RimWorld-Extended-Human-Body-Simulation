@@ -67,9 +67,9 @@
 	</ThingDef>
 
 	<ThingDef ParentName="Simple">
-		<defName>ArtificialRib</defName>
-		<label>artificial rib</label>
-		<description>Replaces a missing rib.</description>
+		<defName>ArtificialRibcage</defName>
+		<label>artificial ribcage</label>
+		<description>Replaces a missing ribcage.</description>
 		<statBases>
 			<MarketValue>75</MarketValue>
 			<Mass>0.4</Mass>
