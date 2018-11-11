@@ -21,11 +21,11 @@
 	<success>Always</success>
 	<operations>
 		<li Class="PatchOperationTest">
-			<xpath>*/BodyPartDef[defName="LeftEye"]/spawnThingOnRemoved</xpath>
+			<xpath>*/BodyPartDef[defName="Eye"]/spawnThingOnRemoved</xpath>
 			<success>Invert</success>
 		</li>
 		<li Class="PatchOperationAdd">
-			<xpath>*/BodyPartDef[defName="LeftEye"]</xpath>
+			<xpath>*/BodyPartDef[defName="Eye"]</xpath>
 			<value>
 				<spawnThingOnRemoved>Eye</spawnThingOnRemoved>
 			</value>
@@ -37,43 +37,11 @@
 	<success>Always</success>
 	<operations>
 		<li Class="PatchOperationTest">
-			<xpath>*/BodyPartDef[defName="RightEye"]/spawnThingOnRemoved</xpath>
+			<xpath>*/BodyPartDef[defName="Ear"]/spawnThingOnRemoved</xpath>
 			<success>Invert</success>
 		</li>
 		<li Class="PatchOperationAdd">
-			<xpath>*/BodyPartDef[defName="RightEye"]</xpath>
-			<value>
-				<spawnThingOnRemoved>Eye</spawnThingOnRemoved>
-			</value>
-		</li>
-	</operations>
-</Operation>
-
-<Operation Class="PatchOperationSequence">
-	<success>Always</success>
-	<operations>
-		<li Class="PatchOperationTest">
-			<xpath>*/BodyPartDef[defName="LeftEar"]/spawnThingOnRemoved</xpath>
-			<success>Invert</success>
-		</li>
-		<li Class="PatchOperationAdd">
-			<xpath>*/BodyPartDef[defName="LeftEar"]</xpath>
-			<value>
-				<spawnThingOnRemoved>Ear</spawnThingOnRemoved>
-			</value>
-		</li>
-	</operations>
-</Operation>
-
-<Operation Class="PatchOperationSequence">
-	<success>Always</success>
-	<operations>
-		<li Class="PatchOperationTest">
-			<xpath>*/BodyPartDef[defName="RightEar"]/spawnThingOnRemoved</xpath>
-			<success>Invert</success>
-		</li>
-		<li Class="PatchOperationAdd">
-			<xpath>*/BodyPartDef[defName="RightEar"]</xpath>
+			<xpath>*/BodyPartDef[defName="Ear"]</xpath>
 			<value>
 				<spawnThingOnRemoved>Ear</spawnThingOnRemoved>
 			</value>
