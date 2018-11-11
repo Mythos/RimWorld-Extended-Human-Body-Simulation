@@ -496,10 +496,10 @@
 	</RecipeDef>
 
 	<RecipeDef ParentName="SurgerySimple">
-		<defName>InstallArtificialRib</defName>
-		<label>install artificial rib</label>
-		<description>Installs artificial rib.</description>
-		<jobString>Installing artificial rib.</jobString>
+		<defName>InstallArtificialRibcage</defName>
+		<label>install artificial ribcage</label>
+		<description>Installs artificial ribcage.</description>
+		<jobString>Installing artificial ribcage.</jobString>
 		<ingredients>
 			<li>
 				<filter>
@@ -512,7 +512,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>ArtificialRib</li>
+						<li>ArtificialRibcage</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -523,25 +523,13 @@
 				<li>Medicine</li>
 			</categories>
 			<thingDefs>
-				<li>ArtificialRib</li>
+				<li>ArtificialRibcage</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
 			<li>Ribcage</li>
-			<!--<li>Rib1</li>
-			<li>Rib2</li>
-			<li>Rib3</li>
-			<li>Rib4</li>
-			<li>Rib5</li>
-			<li>Rib6</li>
-			<li>Rib7</li>
-			<li>Rib8</li>
-			<li>Rib9</li>
-			<li>Rib10</li>
-			<li>Rib11</li>
-			<li>Rib12</li>-->
 		</appliedOnFixedBodyParts>
-		<addsHediff>ArtificialRib</addsHediff>
+		<addsHediff>ArtificialRibcage</addsHediff>
 	</RecipeDef>
 
 </Defs>
