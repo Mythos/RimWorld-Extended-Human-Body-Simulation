@@ -19,15 +19,6 @@
 					<groups>
 						<li>Torso</li>
 					</groups>
-					<parts>
-						<li>
-							<def>ModuleSlotSternum</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-					</parts>
 				</li>
 				<li>
 					<def>Ribcage</def>
@@ -36,7 +27,7 @@
 					<groups>
 						<li>Torso</li>
 					</groups>
-					<parts>
+					<!-- EPOE or some new ribmod <parts>
 						<li>
 							<def>ModuleSlotRib1</def>
 							<coverage>0</coverage>
@@ -121,7 +112,7 @@
 								<li>Torso</li>
 							</groups>
 						</li>
-					</parts>
+					</parts> -->
 				</li>
 				<li>
 					<def>Pelvis</def>
@@ -133,21 +124,7 @@
 					</groups>
 					<parts>
 						<li>
-							<def>ModuleSlotPelvisFront</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
 							<def>ModuleSlotPelvisRear</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotPelvisCentre</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -185,76 +162,6 @@
 					</groups>
 					<parts>
 						<li>
-							<def>ModuleSlotSpineFrontUpLeft</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontCentreLeft</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontDownLeft</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontUpCentre</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontCentreCentre</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontDownCentre</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontUpRight</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontCentreRight</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineFrontDownRight</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineLeftUp</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
 							<def>ModuleSlotSpineLeftDown</def>
 							<coverage>0</coverage>
 							<groups>
@@ -262,77 +169,7 @@
 							</groups>
 						</li>
 						<li>
-							<def>ModuleSlotSpineRightUp</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
 							<def>ModuleSlotSpineRightDown</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearUpLeft</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearCentreLeft</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearDownLeft</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearUpCentre</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearCentreCentre</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearDownCentre</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearUpRight</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearCentreRight</def>
-							<coverage>0</coverage>
-							<groups>
-								<li>Torso</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotSpineRearDownRight</def>
 							<coverage>0</coverage>
 							<groups>
 								<li>Torso</li>
@@ -513,46 +350,6 @@
 					</groups>
 					<parts>
 						<li>
-							<def>ModuleSlotNeckFront</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Neck</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotNeckRearUp</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Neck</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotNeckRearDown</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Neck</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotNeckLeft</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Neck</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotNeckRight</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Neck</li>
-							</groups>
-						</li>
-						<li>
 							<def>Head</def>
 							<coverage>0.80</coverage>
 							<groups>
@@ -563,24 +360,6 @@
 							<parts>
 								<li>
 									<def>ModuleSlotHeadFront</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>FullHead</li>
-										<li>UpperHead</li>
-									</groups>
-								</li>
-								<li>
-									<def>ModuleSlotHeadRear</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>FullHead</li>
-										<li>UpperHead</li>
-									</groups>
-								</li>
-								<li>
-									<def>ModuleSlotHeadUp</def>
 									<coverage>0</coverage>
 									<depth>Inside</depth>
 									<groups>
@@ -616,14 +395,6 @@
 									</groups>
 									<parts>
 										<li>
-											<def>ModuleSlotSkull</def>
-											<coverage>0</coverage>
-											<groups>
-												<li>UpperHead</li>
-												<li>FullHead</li>
-											</groups>
-										</li>
-										<li>
 											<def>Brain</def>
 											<coverage>0.8</coverage>
 											<groups>
@@ -647,62 +418,6 @@
 														<li>FullHead</li>
 													</groups>
 												</li>
-												<li>
-													<def>ModuleSlotBrainFront</def>
-													<coverage>0</coverage>
-													<groups>
-														<li>UpperHead</li>
-														<li>FullHead</li>
-													</groups>
-												</li>
-												<li>
-													<def>ModuleSlotBrainCentre</def>
-													<coverage>0</coverage>
-													<groups>
-														<li>UpperHead</li>
-														<li>FullHead</li>
-													</groups>
-												</li>
-												<li>
-													<def>ModuleSlotBrainRear</def>
-													<coverage>0</coverage>
-													<groups>
-														<li>UpperHead</li>
-														<li>FullHead</li>
-													</groups>
-												</li>
-												<li>
-													<def>ModuleSlotBrainUp</def>
-													<coverage>0</coverage>
-													<groups>
-														<li>UpperHead</li>
-														<li>FullHead</li>
-													</groups>
-												</li>
-												<li>
-													<def>ModuleSlotBrainDown</def>
-													<coverage>0</coverage>
-													<groups>
-														<li>UpperHead</li>
-														<li>FullHead</li>
-													</groups>
-												</li>
-												<li>
-													<def>ModuleSlotBrainLeft</def>
-													<coverage>0</coverage>
-													<groups>
-														<li>UpperHead</li>
-														<li>FullHead</li>
-													</groups>
-												</li>
-												<li>
-													<def>ModuleSlotBrainRight</def>
-													<coverage>0</coverage>
-													<groups>
-														<li>UpperHead</li>
-														<li>FullHead</li>
-													</groups>
-												</li>
 											</parts>
 										</li>
 									</parts>
@@ -715,17 +430,6 @@
 										<li>FullHead</li>
 										<li>Eyes</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftEye</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>FullHead</li>
-												<li>Eyes</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Eye</def>
@@ -735,17 +439,6 @@
 										<li>FullHead</li>
 										<li>Eyes</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightEye</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>FullHead</li>
-												<li>Eyes</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Ear</def>
@@ -755,17 +448,6 @@
 										<li>UpperHead</li>
 										<li>FullHead</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftEar</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>UpperHead</li>
-												<li>FullHead</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Ear</def>
@@ -775,17 +457,6 @@
 										<li>UpperHead</li>
 										<li>FullHead</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightEar</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>UpperHead</li>
-												<li>FullHead</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Nose</def>
@@ -793,16 +464,6 @@
 									<groups>
 										<li>FullHead</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotNose</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>FullHead</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Jaw</def>
@@ -811,26 +472,6 @@
 										<li>Teeth</li>
 										<li>FullHead</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotJawUp</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Teeth</li>
-												<li>FullHead</li>
-											</groups>
-										</li>
-										<li>
-											<def>ModuleSlotJawDown</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Teeth</li>
-												<li>FullHead</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 							</parts>
 						</li>
@@ -861,15 +502,6 @@
 							<groups>
 								<li>Torso</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotLeftClavicle</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Torso</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Arm</def>
@@ -880,22 +512,6 @@
 							</groups>
 							<parts>
 								<li>
-									<def>ModuleSlotLeftArmUp</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>Arms</li>
-									</groups>
-								</li>
-								<li>
-									<def>ModuleSlotLeftArmDown</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>Arms</li>
-									</groups>
-								</li>
-								<li>
 									<def>Humerus</def>
 									<customLabel>left humerus</customLabel>
 									<coverage>0.1</coverage>
@@ -903,15 +519,6 @@
 									<groups>
 										<li>Arms</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftHumerus</def>
-											<coverage>0</coverage>
-											<groups>
-												<li>Arms</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Radius</def>
@@ -921,15 +528,6 @@
 									<groups>
 										<li>Arms</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftRadius</def>
-											<coverage>0</coverage>
-											<groups>
-												<li>Arms</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Ulna</def>
@@ -939,15 +537,6 @@
 									<groups>
 										<li>Arms</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftUlna</def>
-											<coverage>0</coverage>
-											<groups>
-												<li>Arms</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Hand</def>
@@ -959,15 +548,6 @@
 									</groups>
 									<parts>
 										<li>
-											<def>ModuleSlotLeftHand</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Hands</li>
-												<li>LeftHand</li>
-											</groups>
-										</li>
-										<li>
 											<def>Finger</def>
 											<customLabel>left pinky</customLabel>
 											<coverage>0.06</coverage>
@@ -975,17 +555,6 @@
 												<li>Hands</li>
 												<li>LeftHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotLeftHandPinky</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>LeftHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -995,17 +564,6 @@
 												<li>Hands</li>
 												<li>LeftHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotLeftHandRingFinger</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>LeftHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -1015,17 +573,6 @@
 												<li>Hands</li>
 												<li>LeftHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotLeftHandMiddleFinger</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>LeftHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -1035,17 +582,6 @@
 												<li>Hands</li>
 												<li>LeftHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotLeftHandIndexFinger</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>LeftHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -1055,17 +591,6 @@
 												<li>Hands</li>
 												<li>LeftHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotLeftHandThumb</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>LeftHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 									</parts>
 								</li>
@@ -1098,15 +623,6 @@
 							<groups>
 								<li>Torso</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotRightClavicle</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Torso</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Arm</def>
@@ -1117,22 +633,6 @@
 							</groups>
 							<parts>
 								<li>
-									<def>ModuleSlotRightArmUp</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>Arms</li>
-									</groups>
-								</li>
-								<li>
-									<def>ModuleSlotRightArmDown</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>Arms</li>
-									</groups>
-								</li>
-								<li>
 									<def>Humerus</def>
 									<customLabel>right humerus</customLabel>
 									<coverage>0.1</coverage>
@@ -1140,15 +640,6 @@
 									<groups>
 										<li>Arms</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightHumerus</def>
-											<coverage>0</coverage>
-											<groups>
-												<li>Arms</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Radius</def>
@@ -1158,15 +649,6 @@
 									<groups>
 										<li>Arms</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightRadius</def>
-											<coverage>0</coverage>
-											<groups>
-												<li>Arms</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Ulna</def>
@@ -1176,15 +658,6 @@
 									<groups>
 										<li>Arms</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightUlna</def>
-											<coverage>0</coverage>
-											<groups>
-												<li>Arms</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Hand</def>
@@ -1196,15 +669,6 @@
 									</groups>
 									<parts>
 										<li>
-											<def>ModuleSlotRightHand</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Hands</li>
-												<li>RightHand</li>
-											</groups>
-										</li>
-										<li>
 											<def>Finger</def>
 											<customLabel>right pinky</customLabel>
 											<coverage>0.06</coverage>
@@ -1212,17 +676,6 @@
 												<li>Hands</li>
 												<li>RightHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotRightHandPinky</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>RightHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -1232,17 +685,6 @@
 												<li>Hands</li>
 												<li>RightHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotRightHandRingFinger</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>RightHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -1252,17 +694,6 @@
 												<li>Hands</li>
 												<li>RightHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotRightHandMiddleFinger</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>RightHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -1272,17 +703,6 @@
 												<li>Hands</li>
 												<li>RightHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotRightHandIndexFinger</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>RightHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 										<li>
 											<def>Finger</def>
@@ -1292,17 +712,6 @@
 												<li>Hands</li>
 												<li>RightHand</li>
 											</groups>
-											<parts>
-												<li>
-													<def>ModuleSlotRightHandThumb</def>
-													<coverage>0</coverage>
-													<depth>Inside</depth>
-													<groups>
-														<li>Hands</li>
-														<li>RightHand</li>
-													</groups>
-												</li>
-											</parts>
 										</li>
 									</parts>
 								</li>
@@ -1328,22 +737,6 @@
 					</groups>
 					<parts>
 						<li>
-							<def>ModuleSlotLeftLegUp</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Legs</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotLeftLegDown</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Legs</li>
-							</groups>
-						</li>
-						<li>
 							<def>Femur</def>
               				<customLabel>left femur</customLabel>
 							<coverage>0.1</coverage>
@@ -1351,15 +744,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotLeftFemur</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Patella</def>
@@ -1369,15 +753,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotLeftPatella</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Tibia</def>
@@ -1387,15 +762,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotLeftTibia</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Fibula</def>
@@ -1405,15 +771,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotLeftFibula</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Foot</def>
@@ -1424,30 +781,12 @@
 							</groups>
 							<parts>
 								<li>
-									<def>ModuleSlotLeftFoot</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>Feet</li>
-									</groups>
-								</li>
-								<li>
 									<def>Toe</def>
 									<customLabel>left little toe</customLabel>
 									<coverage>0.06</coverage>
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftFootLittleToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1456,16 +795,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftFootFourthToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1474,16 +803,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftFootMiddleToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1492,16 +811,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftFootSecondToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1510,16 +819,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotLeftFootBigToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 							</parts>
 						</li>
@@ -1535,22 +834,6 @@
 					</groups>
 					<parts>
 						<li>
-							<def>ModuleSlotRightLegUp</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Legs</li>
-							</groups>
-						</li>
-						<li>
-							<def>ModuleSlotRightLegDown</def>
-							<coverage>0</coverage>
-							<depth>Inside</depth>
-							<groups>
-								<li>Legs</li>
-							</groups>
-						</li>
-						<li>
 							<def>Femur</def>
 							<customLabel>right femur</customLabel>
 							<coverage>0.1</coverage>
@@ -1558,15 +841,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotRightFemur</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Patella</def>
@@ -1576,15 +850,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotRightPatella</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Tibia</def>
@@ -1594,15 +859,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotRightTibia</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Fibula</def>
@@ -1612,15 +868,6 @@
 							<groups>
 								<li>Legs</li>
 							</groups>
-							<parts>
-								<li>
-									<def>ModuleSlotRightFibula</def>
-									<coverage>0</coverage>
-									<groups>
-										<li>Legs</li>
-									</groups>
-								</li>
-							</parts>
 						</li>
 						<li>
 							<def>Foot</def>
@@ -1631,30 +878,12 @@
 							</groups>
 							<parts>
 								<li>
-									<def>ModuleSlotRightFoot</def>
-									<coverage>0</coverage>
-									<depth>Inside</depth>
-									<groups>
-										<li>Feet</li>
-									</groups>
-								</li>
-								<li>
 									<def>Toe</def>
 									<customLabel>right little toe</customLabel>
 									<coverage>0.06</coverage>
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightFootLittleToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1663,16 +892,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightFootFourthToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1681,16 +900,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightFootMiddleToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1699,16 +908,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightFootSecondToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 								<li>
 									<def>Toe</def>
@@ -1717,16 +916,6 @@
 									<groups>
 										<li>Feet</li>
 									</groups>
-									<parts>
-										<li>
-											<def>ModuleSlotRightFootBigToe</def>
-											<coverage>0</coverage>
-											<depth>Inside</depth>
-											<groups>
-												<li>Feet</li>
-											</groups>
-										</li>
-									</parts>
 								</li>
 							</parts>
 						</li>
