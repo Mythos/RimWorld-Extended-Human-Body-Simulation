@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.4.0
+
+- Add RBSE's rejection mechanics for spleen (#10)
+
 ## Version 1.3.1
 
 - Add Manifest.xml for Fluffy's ModManager
