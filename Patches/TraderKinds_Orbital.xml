@@ -19,7 +19,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/TraderKindDef[defName="Orbital_CombatSupplier"]/stockGenerators</xpath>
+		<xpath>Defs/TraderKindDef[defName="Orbital_CombatSupplier"]/stockGenerators</xpath>
 		<value>
 			<li Class="StockGenerator_Tag">
 				<tradeTag>SimpleProstheses</tradeTag>
@@ -36,7 +36,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/TraderKindDef[defName="Orbital_Exotic"]/stockGenerators</xpath>
+		<xpath>Defs/TraderKindDef[defName="Orbital_Exotic"]/stockGenerators</xpath>
 		<value>
 			<li Class="StockGenerator_Tag">
 				<tradeTag>SimpleProstheses</tradeTag>
