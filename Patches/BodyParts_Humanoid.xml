@@ -261,11 +261,11 @@
 	<success>Always</success>
 	<operations>
 		<li Class="PatchOperationTest">
-			<xpath>*/BodyPartDef[defName="Tibia"]/spawnThingOnRemoved</xpath>
+			<xpath>Defs/BodyPartDef[defName="Tibia"]/spawnThingOnRemoved</xpath>
 			<success>Invert</success>
 		</li>
 		<li Class="PatchOperationAdd">
-			<xpath>*/BodyPartDef[defName="Tibia"]</xpath>
+			<xpath>Defs/BodyPartDef[defName="Tibia"]</xpath>
 			<value>
 				<spawnThingOnRemoved>Tibia</spawnThingOnRemoved>
 			</value>
