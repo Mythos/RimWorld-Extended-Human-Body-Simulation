@@ -4,6 +4,7 @@
 
 - Add RBSE's rejection mechanics for spleen (#10)
 - Improve patch loading performance (#11)
+- Updated in game mod description
 
 ## Version 1.3.1
 
