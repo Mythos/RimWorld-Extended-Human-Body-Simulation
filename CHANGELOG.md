@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.5.0
+
+- Moved module slots to Crafted Mutants (#14)
+
 ## Version 1.4.0
 
 - Add RBSE's rejection mechanics for spleen (#10)
