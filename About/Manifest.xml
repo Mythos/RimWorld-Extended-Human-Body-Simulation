@@ -9,10 +9,8 @@
     <loadBefore>
         <li>DiseasesOverhauled</li>
         <li>CraftedMutants</li>
-    </loadBefore>
-    <loadAfter>
         <li>HarvestEverything</li>
-    </loadAfter>
+    </loadBefore>
     <suggests>
         <li>1559034352</li> <!-- Diseases Overhauled -->
         <li>1559136016</li> <!-- Crafted Mutants -->
