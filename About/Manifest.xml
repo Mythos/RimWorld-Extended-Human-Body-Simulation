@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>ExtendedHumanBodySimulation</identifier>
-    <version>1.4.0</version>
+    <version>1.5.0</version>
     <dependencies>
     </dependencies>
     <incompatibleWith>
@@ -9,10 +9,8 @@
     <loadBefore>
         <li>DiseasesOverhauled</li>
         <li>CraftedMutants</li>
-    </loadBefore>
-    <loadAfter>
         <li>HarvestEverything</li>
-    </loadAfter>
+    </loadBefore>
     <suggests>
         <li>1559034352</li> <!-- Diseases Overhauled -->
         <li>1559136016</li> <!-- Crafted Mutants -->
