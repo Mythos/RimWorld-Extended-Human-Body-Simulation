@@ -15,10 +15,11 @@ Buy a surrogate to replace the missing bones. Your trusted exotic, pirate or com
 
 # Mod list order
 
-* [Expanded Prosthetics and Organ Engineering](https://steamcommunity.com/workshop/filedetails/?id=725956940)
+* [Expanded Prosthetics and Organ Engineering](https://steamcommunity.com/workshop/filedetails/?id=725956940) (Optional)
 * [Extended Human Body Simulation](https://steamcommunity.com/workshop/filedetails/?id=1559033367)
-* [Diseases Overhauled](https://steamcommunity.com/sharedfiles/filedetails/?id=1559034352)
-* [Crafted Mutants](https://steamcommunity.com/sharedfiles/filedetails/?id=1559136016)
+* [Diseases Overhauled](https://steamcommunity.com/sharedfiles/filedetails/?id=1559034352) (Optional)
+* [Crafted Mutants](https://steamcommunity.com/sharedfiles/filedetails/?id=1559136016) (Optional)
+* [Harvest Everything!](https://steamcommunity.com/sharedfiles/filedetails/?id=1500981707) (Optional)
 
 # Credits
 
