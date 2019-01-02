@@ -4,10 +4,14 @@
 	<author>Mythos</author>
 	<url>https://github.com/Mythos/RimWorld-Extended-Human-Body-Simulation</url>
 	<targetVersion>1.0.0</targetVersion>
-	<description>Integrates these features into RimWorld:
-- An extended simulation system for human bodies (fibulas, ulnas, etc.)
-- Buyable artificial bones to replace missing ones
-- Harvestable body parts and reintegration of those
+	<description>Adds new body parts:
+- Patella
+- Fibula
+- Ulna
+- Spleen
+- 2 lobs of liver (instead of one single organ)
+- Intestines (hidden, has 50% of a pawns metabolism stats)
+- Artificial bones to replace missing ones can be bought from traders
 
 Credits and Thanks to...
  - PhileasFogg for the original mod!
