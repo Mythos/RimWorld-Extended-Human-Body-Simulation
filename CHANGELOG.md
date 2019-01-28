@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.6.0
+
+- Support latest multi-version support changes (#19)
+
 ## Version 1.5.0
 
 - Moved module slots to Crafted Mutants (#14)
