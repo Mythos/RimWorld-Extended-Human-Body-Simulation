@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Leg</defName>
 		<label>leg</label>
@@ -20,6 +21,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Foot</defName>
 		<label>foot</label>
@@ -40,6 +42,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Arm</defName>
 		<label>arm</label>
@@ -60,6 +63,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Hand</defName>
 		<label>hand</label>
@@ -80,6 +84,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Stomach</defName>
 		<label>stomach</label>
@@ -100,6 +105,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Brain</defName>
 		<label>brain</label>
@@ -120,6 +126,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Spleen</defName>
 		<label>spleen</label>
@@ -140,6 +147,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>LobeLiver</defName>
 		<label>lobe of liver</label>
@@ -160,6 +168,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Eye</defName>
 		<label>eyeball</label>
@@ -180,6 +189,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Nose</defName>
 		<label>nose</label>
@@ -200,6 +210,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Ear</defName>
 		<label>ear</label>
@@ -220,6 +231,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Jaw</defName>
 		<label>jaw</label>
@@ -240,6 +252,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Finger</defName>
 		<label>finger</label>
@@ -260,6 +273,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Toe</defName>
 		<label>toe</label>
@@ -280,6 +294,30 @@
 			</li>
 		</comps>
 	</ThingDef>
+
+<!--
+	<ThingDef ParentName="BodyPartNaturalBase">		===OBSOLETE===
+		<defName>Shoulder</defName>
+		<label>shoulder</label>
+		<description>A shoulder.</description>
+		<graphicData>
+			<texPath>Things/Item/Health/HealthItemNatural</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>350</MarketValue>
+			<Mass>2</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>1.0</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef>
+-->
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Ribcage</defName>
 		<label>ribcage</label>
@@ -300,6 +338,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Spine</defName>
 		<label>spine</label>
@@ -320,6 +359,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Clavicle</defName>
 		<label>clavicle</label>
@@ -340,6 +380,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Sternum</defName>
 		<label>sternum</label>
@@ -360,6 +401,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Humerus</defName>
 		<label>humerus</label>
@@ -380,6 +422,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Femur</defName>
 		<label>femur</label>
@@ -400,6 +443,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Pelvis</defName>
 		<label>pelvis</label>
@@ -420,6 +464,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Radius</defName>
 		<label>radius</label>
@@ -440,6 +485,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Ulna</defName>
 		<label>ulna</label>
@@ -460,6 +506,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Patella</defName>
 		<label>patella</label>
@@ -480,6 +527,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Tibia</defName>
 		<label>tibia</label>
@@ -500,6 +548,7 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Fibula</defName>
 		<label>fibula</label>
@@ -520,4 +569,5 @@
 			</li>
 		</comps>
 	</ThingDef>
+
 </Defs>

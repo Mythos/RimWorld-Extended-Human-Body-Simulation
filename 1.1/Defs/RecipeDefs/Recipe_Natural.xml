@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
+
 	<RecipeDef Name="SurgeryNatural" ParentName="SurgeryFlesh" Abstract="True">
 		<surgerySuccessChanceFactor>0.85</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.3</deathOnFailedSurgeryChance>
@@ -12,6 +13,7 @@
 			<li>Human</li>
 		</recipeUsers>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalHeart</defName>
 		<label>install heart</label>
@@ -47,6 +49,7 @@
 			<li>Heart</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalSpleen</defName>
 		<label>install spleen</label>
@@ -82,6 +85,7 @@
 			<li>Spleen</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalLobeLiver</defName>
 		<label>install lobe of liver</label>
@@ -117,6 +121,7 @@
 			<li>LobeLiver</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalLiver</defName>
 		<label>install liver</label>
@@ -152,6 +157,7 @@
 			<li>Liver</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalKidney</defName>
 		<label>install kidney</label>
@@ -187,6 +193,7 @@
 			<li>Kidney</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalLung</defName>
 		<label>install lung</label>
@@ -222,6 +229,7 @@
 			<li>Lung</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalEye</defName>
 		<label>install eye</label>
@@ -257,6 +265,7 @@
 			<li>Eye</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalNose</defName>
 		<label>install nose</label>
@@ -292,6 +301,7 @@
 			<li>Nose</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalEar</defName>
 		<label>install ear</label>
@@ -327,6 +337,7 @@
 			<li>Ear</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalJaw</defName>
 		<label>install jaw</label>
@@ -362,6 +373,7 @@
 			<li>Jaw</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalArm</defName>
 		<label>install arm</label>
@@ -397,6 +409,7 @@
 			<li>Shoulder</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalLeg</defName>
 		<label>install leg</label>
@@ -432,6 +445,7 @@
 			<li>Leg</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalStomach</defName>
 		<label>install stomach</label>
@@ -467,6 +481,7 @@
 			<li>Stomach</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalHand</defName>
 		<label>install hand</label>
@@ -502,6 +517,7 @@
 			<li>Hand</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalFoot</defName>
 		<label>install foot</label>
@@ -537,6 +553,7 @@
 			<li>Foot</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalFinger</defName>
 		<label>install finger</label>
@@ -572,6 +589,7 @@
 			<li>Finger</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalToe</defName>
 		<label>install toe</label>
@@ -607,6 +625,7 @@
 			<li>Toe</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalSpine</defName>
 		<label>install spine</label>
@@ -642,6 +661,7 @@
 			<li>Spine</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalPelvis</defName>
 		<label>install pelvis</label>
@@ -677,6 +697,7 @@
 			<li>Pelvis</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalClavicle</defName>
 		<label>install clavicle</label>
@@ -712,6 +733,7 @@
 			<li>Clavicle</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalSternum</defName>
 		<label>install sternum</label>
@@ -747,6 +769,7 @@
 			<li>Sternum</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalHumerus</defName>
 		<label>install humerus</label>
@@ -782,6 +805,7 @@
 			<li>Humerus</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalFemur</defName>
 		<label>install femur</label>
@@ -817,6 +841,7 @@
 			<li>Femur</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalRadius</defName>
 		<label>install radius</label>
@@ -852,6 +877,7 @@
 			<li>Radius</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalUlna</defName>
 		<label>install ulna</label>
@@ -887,6 +913,7 @@
 			<li>Ulna</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalPatella</defName>
 		<label>install patella</label>
@@ -922,6 +949,7 @@
 			<li>Patella</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalTibia</defName>
 		<label>install tibia</label>
@@ -957,6 +985,7 @@
 			<li>Tibia</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalFibula</defName>
 		<label>install fibula</label>
@@ -992,6 +1021,7 @@
 			<li>Fibula</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgeryNatural">
 		<defName>InstallNaturalRibcage</defName>
 		<label>install ribcage</label>
@@ -1027,4 +1057,5 @@
 			<li>Ribcage</li>
 		</appliedOnFixedBodyParts>
 	</RecipeDef>
+
 </Defs>

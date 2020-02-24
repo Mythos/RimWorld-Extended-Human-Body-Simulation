@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
+
 	<BodyPartDef>
 		<defName>Liver</defName>
 		<label>liver</label>
@@ -9,6 +10,7 @@
 		<spawnThingOnRemoved>Liver</spawnThingOnRemoved>
 		<canSuggestAmputation>false</canSuggestAmputation>
 	</BodyPartDef>
+
 	<BodyPartDef>
 		<defName>LobeLiver</defName>
 		<label>lobe of liver</label>
@@ -20,6 +22,7 @@
 		</tags>
 		<spawnThingOnRemoved>LobeLiver</spawnThingOnRemoved>
 	</BodyPartDef>
+
 	<BodyPartDef>
 		<defName>Spleen</defName>
 		<label>spleen</label>
@@ -31,6 +34,7 @@
 		</tags>
 		<spawnThingOnRemoved>Spleen</spawnThingOnRemoved>
 	</BodyPartDef>
+
 	<BodyPartDef>
 		<defName>Intestine</defName>
 		<label>intestine</label>
@@ -43,4 +47,5 @@
 		</tags>
 		<canSuggestAmputation>false</canSuggestAmputation>
 	</BodyPartDef>
+
 </Defs>

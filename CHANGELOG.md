@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.7.0
+
+- Compatibility with 1.1
+
 ## Version 1.6.0
 
 - Support latest multi-version support changes (#19)

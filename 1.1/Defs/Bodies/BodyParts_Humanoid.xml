@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
+
 	<BodyPartDef>
 		<defName>Patella</defName>
 		<label>patella</label>
@@ -13,6 +14,7 @@
 		</tags>
 		<spawnThingOnRemoved>Patella</spawnThingOnRemoved>
 	</BodyPartDef>
+
 	<BodyPartDef>
 		<defName>Fibula</defName>
 		<label>fibula</label>
@@ -26,6 +28,7 @@
 		</tags>
 		<spawnThingOnRemoved>Fibula</spawnThingOnRemoved>
 	</BodyPartDef>
+
 	<BodyPartDef>
 		<defName>Ulna</defName>
 		<label>ulna</label>
@@ -39,4 +42,5 @@
 		</tags>
 		<spawnThingOnRemoved>Ulna</spawnThingOnRemoved>
 	</BodyPartDef>
+
 </Defs>

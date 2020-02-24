@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
+
 	<ThingDef Name="Simple" ParentName="BodyPartBase" Abstract="True">
 		<tradeTags>
 			<li>SimpleProstheses</li>
@@ -12,6 +13,7 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialPelvis</defName>
 		<label>artificial pelvis</label>
@@ -24,6 +26,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialClavicle</defName>
 		<label>artificial clavicle</label>
@@ -36,6 +39,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialFinger</defName>
 		<label>artificial finger</label>
@@ -48,6 +52,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialToe</defName>
 		<label>artificial toe</label>
@@ -60,6 +65,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialRibcage</defName>
 		<label>artificial ribcage</label>
@@ -72,6 +78,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialSpine</defName>
 		<label>artificial spine</label>
@@ -84,6 +91,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialSternum</defName>
 		<label>artificial sternum</label>
@@ -96,6 +104,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialHumerus</defName>
 		<label>artificial humerus</label>
@@ -108,6 +117,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialFemur</defName>
 		<label>artificial femur</label>
@@ -120,6 +130,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialRadius</defName>
 		<label>artificial radius</label>
@@ -132,6 +143,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialUlna</defName>
 		<label>artificial ulna</label>
@@ -144,6 +156,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialPatella</defName>
 		<label>artificial patella</label>
@@ -156,6 +169,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialTibia</defName>
 		<label>artificial tibia</label>
@@ -168,6 +182,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialFibula</defName>
 		<label>artificial fibula</label>
@@ -180,4 +195,5 @@
 			<li>Simple</li>
 		</techHediffsTags>
 	</ThingDef>
+
 </Defs>
