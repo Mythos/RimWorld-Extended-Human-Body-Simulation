@@ -4,7 +4,7 @@
 	<ThingCategoryDef>
 		<defName>SimpleProstheses</defName>
 		<label>simple prostheses</label>
-		<parent>BodyPartsArtificial</parent>
+		<parent>BodyPartsProsthetic</parent>
 	</ThingCategoryDef>
 
 </Defs>

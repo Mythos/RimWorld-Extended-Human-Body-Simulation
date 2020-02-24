@@ -9,7 +9,7 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<loadBefore>
-		<packageId>Mythos.DiseasesOverhauled</packageId>
+		<li>Mythos.DiseasesOverhauled</li>
 	</loadBefore>
 	<description>Adds new body parts:
 - Patella
