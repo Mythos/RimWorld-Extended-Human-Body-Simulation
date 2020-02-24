@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
+
 	<RecipeDef Name="SurgerySimple" ParentName="SurgeryFlesh" Abstract="True">
 		<surgerySuccessChanceFactor>0.95</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.1</deathOnFailedSurgeryChance>
@@ -12,6 +13,7 @@
 			<li>Human</li>
 		</recipeUsers>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialPelvis</defName>
 		<label>install artificial pelvis</label>
@@ -48,6 +50,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialPelvis</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialClavicle</defName>
 		<label>install artificial clavicle</label>
@@ -84,6 +87,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialClavicle</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialSpine</defName>
 		<label>install artificial spine</label>
@@ -120,6 +124,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialSpine</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialSternum</defName>
 		<label>install artificial sternum</label>
@@ -156,6 +161,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialSternum</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialFinger</defName>
 		<label>install artificial finger</label>
@@ -192,6 +198,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialFinger</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialToe</defName>
 		<label>install artificial toe</label>
@@ -228,6 +235,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialToe</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialHumerus</defName>
 		<label>install artificial humerus</label>
@@ -264,6 +272,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialHumerus</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialFemur</defName>
 		<label>install artificial femur</label>
@@ -300,6 +309,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialFemur</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialPatella</defName>
 		<label>install artificial patella</label>
@@ -336,6 +346,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialPatella</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialTibia</defName>
 		<label>install artificial tibia</label>
@@ -372,6 +383,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialTibia</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialFibula</defName>
 		<label>install artificial fibula</label>
@@ -408,6 +420,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialFibula</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialRadius</defName>
 		<label>install artificial radius</label>
@@ -444,6 +457,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialRadius</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialUlna</defName>
 		<label>install artificial ulna</label>
@@ -480,6 +494,7 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialUlna</addsHediff>
 	</RecipeDef>
+
 	<RecipeDef ParentName="SurgerySimple">
 		<defName>InstallArtificialRibcage</defName>
 		<label>install artificial ribcage</label>
@@ -516,4 +531,5 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>ArtificialRibcage</addsHediff>
 	</RecipeDef>
+
 </Defs>

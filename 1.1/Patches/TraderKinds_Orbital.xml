@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
+
 	<Operation Class="PatchOperationAdd">
 		<xpath>*/TraderKindDef[defName="Orbital_PirateMerchant"]/stockGenerators</xpath>
 		<value>
@@ -16,6 +17,7 @@
 			</li>
 		</value>
 	</Operation>
+
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/TraderKindDef[defName="Orbital_CombatSupplier"]/stockGenerators</xpath>
 		<value>
@@ -32,6 +34,7 @@
 			</li>
 		</value>
 	</Operation>
+
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/TraderKindDef[defName="Orbital_Exotic"]/stockGenerators</xpath>
 		<value>
@@ -48,4 +51,5 @@
 			</li>
 		</value>
 	</Operation>
+
 </Patch>
