@@ -19,6 +19,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialFinger</defName>
 		<label>artificial finger</label>
+		<description>artificial finger</description>
 		<spawnThingOnRemoved>ArtificialFinger</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -26,6 +27,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialToe</defName>
 		<label>artificial toe</label>
+		<description>artificial toe</description>
 		<spawnThingOnRemoved>ArtificialToe</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -33,6 +35,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialSpine</defName>
 		<label>artificial spine</label>
+		<description>artificial spine</description>
 		<spawnThingOnRemoved>ArtificialSpine</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -40,6 +43,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialPelvis</defName>
 		<label>artificial pelvis</label>
+		<description>artificial pelvis</description>
 		<spawnThingOnRemoved>ArtificialPelvis</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -47,6 +51,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialSternum</defName>
 		<label>artificial sternum</label>
+		<description>artificial sternum</description>
 		<spawnThingOnRemoved>ArtificialSternum</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -54,6 +59,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialClavicle</defName>
 		<label>artificial clavicle</label>
+		<description>artificial clavicle</description>
 		<spawnThingOnRemoved>ArtificialClavicle</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -61,6 +67,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialHumerus</defName>
 		<label>artificial humerus</label>
+		<description>artificial humerus</description>
 		<spawnThingOnRemoved>ArtificialHumerus</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -68,6 +75,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialFemur</defName>
 		<label>artificial femur</label>
+		<description>artificial femur</description>
 		<spawnThingOnRemoved>ArtificialFemur</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -75,6 +83,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialRadius</defName>
 		<label>artificial radius</label>
+		<description>artificial radius</description>
 		<spawnThingOnRemoved>ArtificialRadius</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -82,6 +91,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialUlna</defName>
 		<label>artificial ulna</label>
+		<description>artificial ulna</description>
 		<spawnThingOnRemoved>ArtificialUlna</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -89,6 +99,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialPatella</defName>
 		<label>artificial patella</label>
+		<description>artificial patella</description>
 		<spawnThingOnRemoved>ArtificialPatella</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -96,6 +107,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialTibia</defName>
 		<label>artificial tibia</label>
+		<description>artificial tibia</description>
 		<spawnThingOnRemoved>ArtificialTibia</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -103,6 +115,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialFibula</defName>
 		<label>artificial fibula</label>
+		<description>artificial fibula</description>
 		<spawnThingOnRemoved>ArtificialFibula</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
@@ -110,6 +123,7 @@
 	<HediffDef ParentName="addedPartSimpleWorse">
 		<defName>ArtificialRibcage</defName>
 		<label>artificial ribcage</label>
+		<description>artificial ribcage</description>
 		<spawnThingOnRemoved>ArtificialRibcage</spawnThingOnRemoved>
 		<scenarioCanAdd>true</scenarioCanAdd>
 	</HediffDef>
